@@ -1,0 +1,5 @@
+secret.key
+master_password.txt
+accounts.txt
+_pycache_/
+.venv/
